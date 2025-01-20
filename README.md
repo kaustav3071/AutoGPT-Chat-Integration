@@ -15,4 +15,4 @@ The script simulates user interactions, processes text, and generates responses 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourGitHubUsername/AutoGPT-Chat-Integration.git
+   git clone https://github.com/kaustav3071/AutoGPT-Chat-Integration.git
